@@ -1,5 +1,13 @@
-### Hi there 👋
+```sh-session
+   __  ____  _____  ___ 
+  /  |/  | \/ / _ \/ _ |
+ / /|_/ / \  / , _/ __ |
+/_/  /_/  /_/_/|_/_/ |_|
 
+root@7myra.gg | 
+
+``` 
+ 
 <!--
 **7myra-gg/7myra-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
