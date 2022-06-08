@@ -6,6 +6,13 @@
 
 root@7myra.gg | info -github 7myra-gg
 
+root@7myra.gg | Name: 7myra
+root@7myra.gg | Languages: DE, EN
+root@7myra.gg | Coding Languages: 
+root@7myra.gg | • Java
+root@7myra.gg | • Python
+root@7myra.gg | • HTML
+
 ``` 
  
 <!--
