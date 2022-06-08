@@ -4,7 +4,7 @@
  / /|_/ / \  / , _/ __ |
 /_/  /_/  /_/_/|_/_/ |_|
 
-root@7myra.gg | 
+root@7myra.gg | info -github 7myra-gg
 
 ``` 
  
